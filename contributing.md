@@ -16,46 +16,26 @@ free customer service.
 ## Table of Contents
 
 *   [Ecosystem](#ecosystem)
-*   [Questions](#questions)
 *   [Contributions](#contributions)
     *   [Financial support](#financial-support)
     *   [Improve documentation](#improve-documentation)
     *   [Improve issues](#improve-issues)
     *   [Give feedback on issues](#give-feedback-on-issues)
     *   [Write code](#write-code)
+*   [Support](#support)
 *   [Submitting an issue](#submitting-an-issue)
 *   [Submitting a pull request](#submitting-a-pull-request)
 *   [Resources](#resources)
+*   [License](#license)
 
 ## Ecosystem
 
-The ecosystem consists of several organisations and separate projects: most of
-them are tiny, and many of them have a utility
+The collective ([unified][]) consists of several organisations and separate
+projects: most of them are tiny, and many of them have a utility
 ([`mdast-util-to-hast`][mdast-util-to-hast]), a plugin
 ([`remark-rehype`][remark-rehype]), and relate to an ecosystem
-([`remark`][remark]).
+([`remark`][remark]) and a syntax tree ([mdast][]).
 Try and pick the right place to contribute to so we can help you faster.
-
-## Questions
-
-Please chat and ask questions on [spectrum][chat]!
-Jump in there and lurk, talk to us, and help others.
-
-*   [**unified**](https://spectrum.chat/unified)
-    — Topics relating to [**unified**][unified] in general
-*   [**vfile**](https://spectrum.chat/unified/vfile)
-    — Topics relating to [**vfile**][vfile]: virtual files
-*   [**syntax-tree**](https://spectrum.chat/unified/syntax-tree)
-    — Topics relating to [**syntax-tree**][syntax-tree] and [**unist**][unist]
-*   [**remark**](https://spectrum.chat/unified/remark)
-    — Topics relating to [**remark**][remark]s ecosystem, markdown,
-    and [**mdast**][mdast]
-*   [**rehype**](https://spectrum.chat/unified/rehype)
-    — Topics relating to [**rehype**][rehype]s ecosystem, HTML,
-    and [**hast**][hast]
-*   [**retext**](https://spectrum.chat/unified/retext)
-    — Topics relating to [**retext**][retext]s ecosystem, natural language,
-    and [**nlcst**][nlcst]
 
 ## Contributions
 
@@ -88,13 +68,19 @@ We’re always looking for more opinions on discussions in the issue tracker.
 
 ### Write code
 
-Code contributions are very welcome.  It’s often good to first create an issue
-to report a bug or suggest a new feature before creating a pull request to
-prevent you from doing unnecessary work.
+Code contributions are very welcome.
+It’s often good to first create an issue to report a bug or suggest a new
+feature before creating a pull request to prevent you from doing unnecessary
+work.
+
+## Support
+
+See [`support.md`][support] on how to get help.
 
 ## Submitting an issue
 
-*   The issue tracker is for issues.  Use chat for support
+*   The issue tracker is for issues.
+    See [`support.md`][support] on how to get help.
 *   Search the issue tracker (including closed issues) before opening a new
     issue
 *   Ensure you’re using the latest version of projects
@@ -123,27 +109,23 @@ prevent you from doing unnecessary work.
 *   [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
 *   [GitHub Help](https://help.github.com)
 
-[coc]: https://github.com/unifiedjs/unified/blob/master/code-of-conduct.md
+## License
 
-[vfile]: https://github.com/vfile
+[CC-BY-4.0][license] © [Titus Wormer][author]
 
-[syntax-tree]: https://github.com/syntax-tree
+<!-- Definitions -->
 
-[unist]: https://github.com/syntax-tree/unist
+[license]: https://creativecommons.org/licenses/by/4.0/
+
+[author]: https://wooorm.com
+
+[coc]: https://github.com/unifiedjs/.github/blob/master/code-of-conduct.md
 
 [mdast]: https://github.com/syntax-tree/mdast
-
-[nlcst]: https://github.com/syntax-tree/nlcst
-
-[hast]: https://github.com/syntax-tree/hast
 
 [unified]: https://github.com/unifiedjs/unified
 
 [remark]: https://github.com/remarkjs/remark
-
-[retext]: https://github.com/retextjs/retext
-
-[rehype]: https://github.com/rehypejs/rehype
 
 [mdast-util-to-hast]: https://github.com/syntax-tree/mdast-util-to-hast
 
@@ -155,4 +137,4 @@ prevent you from doing unnecessary work.
 
 [micromark]: https://github.com/micromark/micromark
 
-[chat]: https://spectrum.chat/unified
+[support]: support.md
