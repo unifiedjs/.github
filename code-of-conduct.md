@@ -56,9 +56,9 @@ maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at richard@maintainer.io, which will go
-only to Richard Littauer, or to liv@fastmail.com, which will go only to Olivia
-Hugger.
+reported by contacting the project team at [richard@maintainer.io][richard],
+which will go only to Richard Littauer, or to [liv@fastmail.com][liv], which
+will go only to Olivia Hugger.
 You may also cc both.
 All complaints will be reviewed and investigated and will result in a response
 that is deemed necessary and appropriate to the circumstances.
@@ -88,7 +88,12 @@ both anonymity for reporters and the safety of the moderators.
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 1.4, available at <https://www.contributor-covenant.org/version/1/4/code-of-conduct.html>
 
-For answers to common questions about this code of conduct, see
-<https://www.contributor-covenant.org/faq>
+For answers to common questions about this code of conduct, see the [FAQ][].
+
+[richard]: mailto:richard@maintainer.io
+
+[liv]: mailto:liv@fastmail.com
 
 [homepage]: https://www.contributor-covenant.org
+
+[faq]: https://www.contributor-covenant.org/faq
