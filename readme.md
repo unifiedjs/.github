@@ -9,7 +9,7 @@ templates][issue].
 
 **unified**, the project ([`unifiedjs/unified`][project]), and the
 organisation ([`unifiedjs`][unified]), are part of the unified collective.
-Read how it’s all governed in [`unifiedjs/governance`][governance].
+Read how it’s all governed in [`unifiedjs/collective`][collective].
 
 ## Awesome unified
 
@@ -61,4 +61,4 @@ abide by its terms.
 
 [unified]: https://github.com/unifiedjs
 
-[governance]: https://github.com/unifiedjs/governance
+[collective]: https://github.com/unifiedjs/collective
