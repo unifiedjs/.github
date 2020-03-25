@@ -1,7 +1,7 @@
 # Support
 
-> This project has a [Code of Conduct][coc].
-> By interacting with this repository, organisation, or community you agree to
+> This project has a [code of conduct][coc].
+> By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
 Hi!  👋

@@ -32,10 +32,10 @@ Tell us how to reproduce this issue.  Please provide a working and simplified ex
 
 🎉 BONUS POINTS for creating a [minimal reproduction](https://stackoverflow.com/help/mcve) and uploading it to GitHub.  This will get you the fastest support.  🎉
 
-### Expected behaviour
+### Expected behavior
 
 What should happen?
 
-### Actual behaviour
+### Actual behavior
 
 What happens instead?

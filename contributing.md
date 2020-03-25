@@ -1,7 +1,7 @@
 # Contributing
 
-> This project has a [Code of Conduct][coc].
-> By interacting with this repository, organisation, or community you agree to
+> This project has a [code of conduct][coc].
+> By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
 Hi!  👋
@@ -30,7 +30,7 @@ free customer service.
 
 ## Ecosystem
 
-The collective ([unified][]) consists of several organisations and separate
+The collective ([unified][]) consists of several organizations and separate
 projects: most of them are tiny, and many of them have a utility
 ([`mdast-util-to-hast`][mdast-util-to-hast]), a plugin
 ([`remark-rehype`][remark-rehype]), and relate to an ecosystem
@@ -104,10 +104,10 @@ See [`support.md`][support] on how to get help.
 
 ## Resources
 
-*   [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+*   [How to contribute to open source](https://opensource.guide/how-to-contribute/)
 *   [Making your first contribution](https://medium.com/@vadimdemedes/making-your-first-contribution-de6576ddb190)
-*   [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-*   [GitHub Help](https://help.github.com)
+*   [Using pull requests](https://help.github.com/articles/about-pull-requests/)
+*   [GitHub help](https://help.github.com)
 
 ## License
 

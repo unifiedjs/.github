@@ -1,14 +1,14 @@
 # `.github`
 
 Community health files for **unified**.
-This repo hosts the [Code of Conduct][coc], a guide on how to get [support][],
+This repo hosts the [code of conduct][coc], a guide on how to get [support][],
 how to [contribute][], a [pull request template][pr], and [issue
 templates][issue].
 
 ## unified
 
 **unified**, the project ([`unifiedjs/unified`][project]), and the
-organisation ([`unifiedjs`][unified]), are part of the unified collective.
+organization ([`unifiedjs`][unified]), are part of the unified collective.
 Read how it’s all governed in [`unifiedjs/collective`][collective].
 
 ## Awesome unified
@@ -27,10 +27,10 @@ Take a moment to read [`contributing.md`][contribute].
 
 Ideas for new plugins and tools can be posted in [`unifiedjs/ideas`][ideas].
 
-## Code of Conduct
+## Code of conduct
 
-This project has a [Code of Conduct][coc].
-By interacting with this repository, organisation, or community you agree to
+This project has a [code of conduct][coc].
+By interacting with this repository, organization, or community you agree to
 abide by its terms.
 
 ## License

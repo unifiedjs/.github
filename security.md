@@ -16,7 +16,7 @@ website governed by unified, we encourage you to notify us.
 
 Projects governed by unified sometimes do unsafe things by design (such as a
 plugin that executes arbitrary code or an option that is dangerous).
-This unsafe behaviour should be explicitly documented and, if it is, is not
+This unsafe behavior should be explicitly documented and, if it is, is not
 considered a security issue.
 
 There are no hard and fast rules to determine if a bug is worth reporting as a
@@ -33,9 +33,9 @@ You will receive a more detailed response within 96 hours.
 We will create a maintainer security advisory on GitHub to discuss internally,
 and when needed, invite you to the advisory.
 
-## Safe harbour
+## Safe harbor
 
-**unified** supports safe harbour for security researchers who:
+**unified** supports safe harbor for security researchers who:
 
 *   Make a good faith effort to avoid privacy violations, destruction of data,
     and interruption or degradation of our services
@@ -47,7 +47,7 @@ and when needed, invite you to the advisory.
 *   Provide us with a reasonable amount of time to resolve vulnerabilities prior
     to any disclosure to the public or a third-party
 *   We will consider activities conducted consistent with this policy to
-    constitute “authorised” conduct and will not pursue civil action or initiate
+    constitute “authorized” conduct and will not pursue civil action or initiate
     a complaint to law enforcement.
     We will help to the extent we can if legal action is initiated by a third
     party against you
