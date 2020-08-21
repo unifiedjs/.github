@@ -5,7 +5,7 @@ labels: 🔍 status/open, 🐛 type/bug
 ---
 
 <!--
-Ouch, sorry you’ve run into a bug.  Thank for taking the time to report it!
+Ouch, sorry you ran into a bug.  Thank for taking the time to report it!
 
 Please fill in as much of the template below as you’re able.
 
@@ -18,7 +18,7 @@ https://github.com/unifiedjs/.github/blob/main/contributing.md
 
 Describe your issue here.
 
-This is *not* a place to ask questions.  For that, go to [spectrum](https://spectrum.chat/unified)
+This is *not* a place to ask questions.  For that, go to [Discussions](https://github.com/unifiedjs/unified/discussions)
 
 ### Your environment
 

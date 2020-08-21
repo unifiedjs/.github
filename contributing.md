@@ -13,7 +13,7 @@ If you’re raising an issue, please understand that people involved with this
 project often do so for fun, next to their day job; you are not entitled to
 free customer service.
 
-## Table of Contents
+## Contents
 
 *   [Ecosystem](#ecosystem)
 *   [Contributions](#contributions)
