@@ -4,7 +4,8 @@
 > By interacting with this repository, organization, or community you agree to
 > abide by its terms.
 
-Hi!  👋
+Hi!
+👋
 We’re excited that you’re using **unified** and we’d love to help.
 To help us help you, please read through the following guidelines.
 
@@ -13,35 +14,35 @@ next to their day job; you are not entitled to free customer service.
 
 ## Contents
 
-*   [Questions](#questions)
-    *   [Asking quality questions](#asking-quality-questions)
-*   [Contributions](#contributions)
-*   [License](#license)
+* [Questions](#questions)
+  * [Asking quality questions](#asking-quality-questions)
+* [Contributions](#contributions)
+* [License](#license)
 
 ## Questions
 
 Please chat and ask questions on [Discussions][chat]!
 Jump in there and lurk, talk to us, and help others.
 
-*   [**unified**](https://github.com/unifiedjs/unified/discussions)
-    — Topics relating to [**unified**][unified] in general
-*   [**remark**](https://github.com/remarkjs/remark/discussions)
-    — Topics relating to the [**remark**][remark] ecosystem, markdown,
-    and [**mdast**][mdast]
-*   [**rehype**](https://github.com/rehypejs/rehype/discussions)
-    — Topics relating to the [**rehype**][rehype] ecosystem, HTML,
-    and [**hast**][hast]
-*   [**retext**](https://github.com/retextjs/retext/discussions)
-    — Topics relating to the [**retext**][retext] ecosystem, natural language,
-    and [**nlcst**][nlcst]
-*   [**MDX**](https://github.com/mdx-js/mdx/discussions)
-    — Topics relating to [**MDX**][mdx]
-*   [**micromark**](https://github.com/micromark/micromark/discussions)
-    — Topics relating to the future of markdown in unified!
-*   [**vfile**](https://github.com/vfile/vfile/discussions)
-    — Topics relating to [**vfile**][vfile]: virtual files
-*   [**syntax-tree**](https://github.com/syntax-tree/unist/discussions)
-    — Topics relating to [**syntax-tree**][syntax-tree] and [**unist**][unist]
+* [**unified**](https://github.com/unifiedjs/unified/discussions)
+  — Topics relating to [**unified**][unified] in general
+* [**remark**](https://github.com/remarkjs/remark/discussions)
+  — Topics relating to the [**remark**][remark] ecosystem, markdown,
+  and [**mdast**][mdast]
+* [**rehype**](https://github.com/rehypejs/rehype/discussions)
+  — Topics relating to the [**rehype**][rehype] ecosystem, HTML,
+  and [**hast**][hast]
+* [**retext**](https://github.com/retextjs/retext/discussions)
+  — Topics relating to the [**retext**][retext] ecosystem, natural language,
+  and [**nlcst**][nlcst]
+* [**MDX**](https://github.com/mdx-js/mdx/discussions)
+  — Topics relating to [**MDX**][mdx]
+* [**micromark**](https://github.com/micromark/micromark/discussions)
+  — Topics relating to the future of markdown in unified!
+* [**vfile**](https://github.com/vfile/vfile/discussions)
+  — Topics relating to [**vfile**][vfile]: virtual files
+* [**syntax-tree**](https://github.com/syntax-tree/unist/discussions)
+  — Topics relating to [**syntax-tree**][syntax-tree] and [**unist**][unist]
 
 ### Asking quality questions
 
@@ -56,16 +57,16 @@ questions to understand what you are hoping to achieve.
 
 Spending the extra time up front can help save everyone time in the long run.
 
-*   Try to define what you need help with:
-    *   Is there something in particular you want to do?
-    *   What problem are you encountering and what steps have you taken to try
-        and fix it?
-    *   Is there a concept you’re not understanding?
-*   Learn about the [rubber duck debugging method][rubberduck]
-*   Avoid falling for the [XY problem][xy]
-*   Search on GitHub to see if a similar question has been asked
-*   If possible, provide sample code, a [CodeSandbox][], or a video
-*   The more time you put into asking your question, the better we can help you
+* Try to define what you need help with:
+  * Is there something in particular you want to do?
+  * What problem are you encountering and what steps have you taken to try
+    and fix it?
+  * Is there a concept you’re not understanding?
+* Learn about the [rubber duck debugging method][rubberduck]
+* Avoid falling for the [XY problem][xy]
+* Search on GitHub to see if a similar question has been asked
+* If possible, provide sample code, a [CodeSandbox][], or a video
+* The more time you put into asking your question, the better we can help you
 
 ## Contributions
 
