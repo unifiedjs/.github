@@ -1,25 +1,19 @@
 {
-  "name": "github",
-  "private": true,
-  "version": "0.0.0",
-  "description": "Community health files",
-  "license": "CC-BY-4.0",
-  "keywords": [],
-  "repository": "unifiedjs/.github",
-  "bugs": "https://github.com/unifiedjs/.github",
   "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
+  "bugs": "https://github.com/unifiedjs/.github",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
   ],
+  "description": "Community health files",
   "devDependencies": {
     "remark-cli": "^12.0.0",
     "remark-frontmatter": "^5.0.0",
     "remark-preset-wooorm": "^10.0.0"
   },
-  "scripts": {
-    "format": "remark --frail --quiet --output -- .",
-    "test": "npm run format"
-  },
+  "keywords": [],
+  "license": "CC-BY-4.0",
+  "name": "github",
+  "private": true,
   "remarkConfig": {
     "plugins": [
       "remark-frontmatter",
@@ -29,5 +23,11 @@
         false
       ]
     ]
-  }
+  },
+  "repository": "unifiedjs/.github",
+  "scripts": {
+    "format": "remark --frail --quiet --output -- .",
+    "test": "npm run format"
+  },
+  "version": "0.0.0"
 }
