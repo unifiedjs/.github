@@ -1,47 +1,57 @@
-# [![unified][logo]][org]
+# [![unified][githubusercontent-logo]][github-unified]
 
 **unified** is two things:
 
-* **[unified][site]** is a collective of 500+ free and open source packages
+* **[unified][unifiedjs]**
+  is a collective of 500+ free and open source packages
   that work with content as structured data (ASTs)
-* [`unified`][unified] is the core package to inspect and transform content
-  with plugins
+* [`unified`][github-unified]
+  is the core package to inspect and transform content with plugins
 
 Different kinds of content can be connected together.
-Particularly, markdown, natural language, HTML, XML, and JavaScript are
-frequently used.
+Particularly,
+markdown,
+natural language,
+HTML,
+XML, and
+JavaScript
+are frequently used.
 
-* for more about us, see [`unifiedjs.com`][site]
-* for how the collective is governed, see [`unifiedjs/collective`][collective]
-* for updates, see [@unifiedjs][twitter] on Twitter
+* for more about us,
+  see [`unifiedjs.com`][unifiedjs]
+* for how the collective is governed,
+  see [`unifiedjs/collective`][github-unified-collective]
 
 #### Get involved
 
-> 👉 **Note**: by interacting with this organization or community you agree to
-> abide by our [code of conduct][coc].
+This community has a [code of conduct][github-health-code-of-conduct].
+You must follow it when interacting with the community.
 
-* for questions, see [support][]
-* to help, see [contribute][]
-* to sponsor, see [OpenCollective][oc] or [GitHub sponsors][ghs]
+* for questions,
+  see [`support.md`][github-health-support]
+* to help,
+  see [`contributing.md`][github-health-contributing]
+* to sponsor,
+  see [GitHub sponsors][github-sponsors],
+  [`thanks.dev`][thanks],
+  or [OpenCollective][]
 
-[logo]: https://raw.githubusercontent.com/unifiedjs/unified/93862e5/logo.svg?sanitize=true
+[github-health-code-of-conduct]: https://github.com/unifiedjs/.github/blob/main/code-of-conduct.md
 
-[org]: https://github.com/unifiedjs
+[github-health-contributing]: https://github.com/unifiedjs/.github/blob/main/contributing.md
 
-[unified]: https://github.com/unifiedjs/unified
+[github-health-support]: https://github.com/unifiedjs/.github/blob/main/support.md
 
-[site]: https://unifiedjs.com
+[github-unified]: https://github.com/unifiedjs/unified
 
-[twitter]: https://twitter.com/unifiedjs
+[github-unified-collective]: https://github.com/unifiedjs/collective
 
-[collective]: https://github.com/unifiedjs/collective
+[opencollective]: https://opencollective.com/unified
 
-[coc]: https://github.com/unifiedjs/.github/blob/main/code-of-conduct.md
+[thanks]: https://thanks.dev
 
-[support]: https://github.com/unifiedjs/.github/blob/main/support.md
+[github-sponsors]: https://github.com/sponsors/unifiedjs
 
-[contribute]: https://github.com/unifiedjs/.github/blob/main/contributing.md
+[githubusercontent-logo]: https://raw.githubusercontent.com/unifiedjs/unified/93862e5/logo.svg?sanitize=true
 
-[oc]: https://opencollective.com/unified
-
-[ghs]: https://github.com/sponsors/unifiedjs
+[unifiedjs]: https://unifiedjs.com
